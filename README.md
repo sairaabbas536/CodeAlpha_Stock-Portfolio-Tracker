@@ -28,7 +28,7 @@ This is a beginner-friendly Python script that helps you calculate your total st
 ```bash
 python stock_tracker.py
 
----
+---bash
 
 ## 📁 Example Output
 
