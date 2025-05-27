@@ -25,10 +25,11 @@ This is a beginner-friendly Python script that helps you calculate your total st
 3. Open the terminal and navigate to the project directory.
 4. Run the script using:
 
-```bash
+```bash 
 python stock_tracker.py
 
-📁 Example Output
+
+##📁Example Output
 
 Enter stock symbol (or 'done' to finish): AAPL
 Enter quantity for AAPL: 3
@@ -42,15 +43,16 @@ Total Investment: $1040
 Do you want to save this to a file? (yes/no): yes
 Saved to portfolio.txt
 
-✨ Future Improvements
 
-Add live stock price fetching using an API
+##✨ Future Improvements
 
-Support for more stocks
+-Add live stock price fetching using an API
 
-Export to CSV format
+-Support for more stocks
 
-GUI version using Tkinter or PyQt
+-Export to CSV format
+
+-GUI version using Tkinter or PyQt
 
 
 👩‍💻 Created By: Saira Abbas
